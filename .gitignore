@@ -1,0 +1,7 @@
+# SBT
+target
+.bsp
+
+# IDEA
+\.idea
+\.iml
